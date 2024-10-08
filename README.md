@@ -37,3 +37,7 @@ This project focuses on predicting sales for Rossmann stores using historical sa
 - Python 3.9
 - Jupyter Notebook
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
+
+### Install Dependencies
+```bash
+pip install requirements.txt
